@@ -1,0 +1,121 @@
+*{
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Raleway, sans-serif;
+  color: black;
+
+}
+
+
+
+
+
+
+
+html {
+
+	font-size: 16px;
+
+}
+
+a {
+	text-decoration: none;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+fieldset {
+	border: none;
+}
+
+navbar*{
+
+  display: block;
+  font-size: 1.2ren;
+  font-weight: 500;
+}
+
+logo{
+   height: 55px;
+   margin-top: 30px;
+   margin-left: 5%
+}
+navbar-container {
+      display: flex;
+      justify-content: flex-end;
+      width: 100%
+      margin-top: 20px;
+      flex-wrap: wrap-reverse;
+}
+    hebergement-link{
+
+      width: 50%
+      text-align: center;
+      border-bottom: solid 3px;
+      color: blue;
+      padding-bottom: 10px;
+      position: relative;
+      transition: 0.5s;
+
+    }
+  
+   activity-link{
+    width: 50%
+    text-align: center;
+    border-bottom: solid 3px;
+    padding-bottom: 10px;
+    position: relative;
+    transition: 0.5s;
+
+   }
+
+   suscrib-link{
+    position: relative;
+    bottom: 56px;
+    margin-right: 5%;
+    color: blue;
+   }
+  
+  titre_container{
+    margin: 35px 60px 0 5%
+
+  }
+
+  titre_principal{
+    font-size: 1.3ren;
+    margin-bottom: 10px
+  }
+   
+  titre_secondaire{
+     font-weight: 500;
+     font-size: 1ren
+     
+
+  }
+
+   border: 3px black solid;	
+   border-radius: 1px;
+
+#conteneur
+{
+    display: flex;
+    border: 2px solid #444;
+
+}
+img{
+
+
+
+  width: 50%
+
+
+}
+
+
+
